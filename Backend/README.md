@@ -1,12 +1,12 @@
-# Envixi 
+# Sustainivo 
 
-Envixi Application
+Sustainivo Application
 
 ## Requirements
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
 
-Mongodb having database :- ENVIXI_ADMIN_DB
+Mongodb having database :- SUSTAINIVO_ADMIN_DB
 
 ### Node
 - #### Node installation on Windows
@@ -59,7 +59,7 @@ JWT_TIMEOUT_DURATION = "1800s"
 JWT_TIMEOUT_DURATION_REF="3600s"
 NODE_ENV="development"
 MONGODB_USER=admin
-MONGODB_PASSWORD=envixixxxxxxxxx
+MONGODB_PASSWORD=sustainivoxxxxxxxxx
 MONGODB_HOST=0.0.0.0
 MONGODB_PORT=27017
 BASE_URL = "http://localhost:3000/api"

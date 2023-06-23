@@ -1,8 +1,8 @@
-# Envixi
-Envixi is a ESG management suite that allows companies to measure, manage and communicate their ESG (Environmental, Social, and Governance) performance to investors, clients, employees, and other stakeholders. The project is built using the Angular framework on the frontend, with the backend developed in Node.js and the database using MongoDB.
+# Sustainivo
+Sustainivo is a ESG management suite that allows companies to measure, manage and communicate their ESG (Environmental, Social, and Governance) performance to investors, clients, employees, and other stakeholders. The project is built using the Angular framework on the frontend, with the backend developed in Node.js and the database using MongoDB.
 
 ## Getting Started
-To get started with Envixi, you will need to have the following prerequisites installed on your system:
+To get started with Sustainivo, you will need to have the following prerequisites installed on your system:
 
 1. Node.js
 2. Angular CLI
@@ -14,7 +14,7 @@ To get started with Envixi, you will need to have the following prerequisites in
 
 Once you have installed the necessary prerequisites, you will need to follow these step:
 
-- Clone the repository: ```git clone https://github.com/envixi2023/envixi.git```
+- Clone the repository: ```git clone https://github.com/sustainivo/sustainivo.git```
 
 This will create a local copy of the repository on your computer.
 
@@ -38,7 +38,7 @@ ng serve
 This will start the development server on http://localhost:4200/, and you should be able to see your application in the browser.
 
 ## Dependencies
-Envixi is built using Angular and relies on the following dependencies:
+Sustainivo is built using Angular and relies on the following dependencies:
 
 - Angular Material: A UI component library for Angular applications.
 - Chart.js: A library for creating interactive charts and graphs.
@@ -60,7 +60,7 @@ If you would like to help test our project, you can do so by downloading the lat
 If you would like to contribute to our project's documentation, you can do so by submitting a pull request with your changes. Please make sure your documentation is clear and concise, and that it follows our style and conventions.
 
 ## Code of conduct
-Welcome to Envixi! We believe that open collaboration and a respectful community are the keys to creating great software. To ensure that everyone feels safe and respected, we ask that all contributors and users follow our code of conduct.
+Welcome to Sustainivo! We believe that open collaboration and a respectful community are the keys to creating great software. To ensure that everyone feels safe and respected, we ask that all contributors and users follow our code of conduct.
 Our code of conduct is inspired by the Contributor Covenant (https://www.contributor-covenant.org), version 2.1, which is a widely used code of conduct in the open source community.
 Please read and follow these guidelines when participating in our community:
 - Be respectful and considerate. We welcome and celebrate diversity in our community and expect everyone to treat others with respect and empathy, regardless of their race, ethnicity, gender, sexual orientation, age, religion, or any other personal characteristic.
@@ -73,7 +73,7 @@ By following these guidelines, we can create a welcoming and inclusive community
 
 
 ## License
-Envixi is released under the MIT License.
+Sustainivo is released under the MIT License.
 
 
 
